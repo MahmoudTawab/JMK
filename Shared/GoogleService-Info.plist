@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>223032609351-tv9vsp82bdrv12ltp7irr6rbr53fj227.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.223032609351-tv9vsp82bdrv12ltp7irr6rbr53fj227</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>223032609351-c4lb7junvjv8qfqa03qe25ac0d3hs0lj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAG_knv5XGBTa7l678y40hdaIsxJolgBkw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>223032609351</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.emojiit.jmk</string>
+	<key>PROJECT_ID</key>
+	<string>jmk-emoji</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jmk-emoji.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:223032609351:ios:e4a699c41c580583e73f62</string>
+</dict>
+</plist>
